@@ -1,3 +1,3 @@
 var zax1024 = true;
-var zaxfac = "https://venomx.site/venomfac.php";
+var zaxfac = "https://venompanel.com/venomfac.php";
 
